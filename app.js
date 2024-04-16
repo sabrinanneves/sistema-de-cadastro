@@ -7,7 +7,7 @@ console.log("testando git commit");
 // git clone = clonar projeto
 // git log =  ver o historico de alteracoes recentes. ele mostra dois pontos no final para sair e so clciar na tecla Q
 // Git log —online = mostra todos os commits
-// git pull: puxar as alteracoes feitas no projetos na minha maquina
+// git pull = puxar as alteracoes feitas no projetos na minha maquina
 // git status =  status para ver se algo foi modificado
 // Git commit <nome do arquivo> - m “”= comitar
 // git commit . -m"testing git comands”  = outra forma de mandar todos os commits de todos os arquivos que alterou
