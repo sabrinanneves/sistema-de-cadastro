@@ -15,3 +15,5 @@ console.log("testando git commit");
 // Git push origin main: escolher a main que quer empurrar
 // git restore —source 7474646 . = voltar para um determindado potno da aplicação dps idsso tem que dar commit e push
 // git log --author="üser"= filtrar pelo nome
+// git checkout -b nome da branch = criando uma branch
+// git switch nome da branch =  para trocar a branch
