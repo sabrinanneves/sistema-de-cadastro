@@ -19,3 +19,4 @@ console.log("testando git commit");
 // git switch nome da branch =  para trocar a branch
 // para dar merge para main da um git switch de volta para a main, depois git merge develop(nome da branch que vc quer mergear) e depois git push origin main
 // git branch =  mostra as branches e qual estamos
+// teste criando branch
