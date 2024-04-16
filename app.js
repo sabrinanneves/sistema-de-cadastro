@@ -17,4 +17,3 @@ console.log("testando git commit");
 // git log --author="üser"= filtrar pelo nome
 // git checkout -b nome da branch = criando uma branch
 // git switch nome da branch =  para trocar a branch
-// git branch = mostra todas as branches e mostra qual estamos
